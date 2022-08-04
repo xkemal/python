@@ -7,7 +7,7 @@ import glob
 from datetime import datetime
 
 
-USER = "mbharvesto"
+USER = "put your ig here"
 L = instaloader.Instaloader()
 # Load session previously saved with `instaloader -l USERNAME`:
 L.load_session_from_file(USER)
